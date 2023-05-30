@@ -4,7 +4,7 @@ To [Dolibarr ERP/CRM](https://www.dolibarr.org/) είναι η μόνη αξιό
 
 Αν θέλεις να εγκαταστήσεις / δοκιμάσεις το Dolibarr θα βρεις για αρχή ένα συνοπτικό οδηγό παραμετροποίησης στο [Wiki](https://github.com/DoliGreece/DoliGreece/wiki).
 
-Αν ήδη δουλεύεις με το Dolibarr και θέλεις να συνεισφέρεις, σε καλούμε να γίνεις μέλος αφήνοντας το github username σου [εδώ](https://github.com/orgs/DoliGreece/discussions/1) ή στο αντίστοιχο thread του forum.
+Αν ήδη δουλεύεις με το Dolibarr και θέλεις να συνεισφέρεις, σε καλούμε να γίνεις μέλος αφήνοντας το Github username σου [εδώ](https://github.com/orgs/DoliGreece/discussions/1) ή στο αντίστοιχο thread του forum.
 
 Όλοι μπορούν να συνεισφέρουν με τους εξής τρόπους:
 
