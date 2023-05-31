@@ -10,7 +10,7 @@ To [Dolibarr ERP/CRM](https://www.dolibarr.org/) είναι η μόνη αξιό
 
 * εμπλουτίζοντας το Wiki
 
-* με ιδέες υλοποίησης για πράγματα που λείπουν, ανοίγοντας ένα [issue](https://github.com/DoliGreece/DoliGreece/issues)
+* με ιδέες υλοποίησης για πράγματα που λείπουν, ξεκινώντας μια [συζήτηση](https://github.com/orgs/DoliGreece/discussions)
 
 * συνεισφέροντας κώδικα / modules που ήδη χρησιμοποιούν στα project τους
 
