@@ -12,7 +12,7 @@ To [Dolibarr ERP/CRM](https://www.dolibarr.org/) είναι η μόνη αξιό
 
 * με ιδέες υλοποίησης για πράγματα που λείπουν, ξεκινώντας μια [συζήτηση](https://github.com/orgs/DoliGreece/discussions)
 
-* συνεισφέροντας κώδικα / modules που ήδη χρησιμοποιούν στα project τους. H ανοιχτή [λίστα](https://github.com/DoliGreece/DoliGreeceDevs/blob/main/README.md) μας
+* συνεισφέροντας κώδικα / modules που ήδη χρησιμοποιούν στα project τους. H ανοιχτή [λίστα](https://github.com/DoliGreece/DoliGreeceDevs#are-we-there-yet) μας
 
 * βοηθώντας στην υλοποίηση των ανοιχτών [Issues](https://github.com/DoliGreece/DoliGreeceDevs/issues)
 
