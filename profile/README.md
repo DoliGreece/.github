@@ -73,13 +73,16 @@ To [Dolibarr ERP/CRM](https://www.dolibarr.org/) είναι η μόνη αξιό
 
 - [x] Mydata
 
-
+      https://github.com/evansgl/dolibarr-mydata
+      
 - [x] Mask4Greece (pdf πρότυπα παραστατικών)
 
       https://github.com/TechnickSysAid/mask4greece/
+      
 - [x] CTPT (Σειρές αρίθμησης παραστατικών)
 
       https://github.com/sonikf/ctpt
+      
 - [x] NumberWords (Μετατροπή αριθμού ή ποσού σε λέξεις (ολογράφως))
 
       https://www.dolistore.com/en/modules/17-NumberWords.html
