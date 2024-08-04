@@ -20,7 +20,7 @@ To [Dolibarr ERP/CRM](https://www.dolibarr.org/) είναι η μόνη αξιό
 
 ## Are we there yet?
 
-Η παρακάτω λίστα είναι ενδεικτική και αποτελείται απο ερωτήματα και συνεισφορές που έχουν υποβληθεί στο [forum](https://www.dolibarr.gr/foroum/index.html) της Ελληνικής κοινότητας. Δείτε τα [Issues](https://github.com/DoliGreece/DoliGreeceDevs/issues) για την πρόοδο. 
+Η παρακάτω λίστα είναι ενδεικτική και αποτελείται απο ερωτήματα και συνεισφορές που έχουν υποβληθεί κυρίως στο [forum](https://www.dolibarr.gr/foroum/index.html) της Ελληνικής κοινότητας. 
 - [x] Wiki (work in progress)
 
 
