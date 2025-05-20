@@ -91,18 +91,20 @@ To [Dolibarr ERP/CRM](https://www.dolibarr.org/) είναι η μόνη αξιό
 
 - [x] Mydata (Free / Δωρεάν)
 
-      https://github.com/evansgl/dolibarr-mydata
+  https://github.com/evansgl/dolibarr-mydata
       
 - [x] Mask4Greece (pdf πρότυπα παραστατικών) (Free / Δωρεάν)
 
-      https://github.com/TechnickSysAid/mask4greece/
+  Υποστηρίζει mark και QR CODE της ΑΑΔΕ
+
+  https://github.com/TechnickSysAid/mask4greece/
       
 - [x] CTPT (Σειρές αρίθμησης παραστατικών) (Free / Δωρεάν)
 
-      https://www.dolistore.com/product.php?id=644&title=ctpt&l=en
+  https://www.dolistore.com/product.php?id=644&title=ctpt&l=en
       
-      https://github.com/sonikf/ctpt
+  https://github.com/sonikf/ctpt
       
 - [x] NumberWords (Μετατροπή αριθμού ή ποσού σε λέξεις (ολογράφως)) (Free / Δωρεάν)
 
-      https://www.dolistore.com/en/modules/17-NumberWords.html
+  https://www.dolistore.com/en/modules/17-NumberWords.html
