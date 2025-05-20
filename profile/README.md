@@ -49,6 +49,10 @@ To [Dolibarr ERP/CRM](https://www.dolibarr.org/) είναι η μόνη αξιό
       
 
 ### Modules / Bridges
+- [ ] Ψηφιακή κάρτα εργασίας(ΕΡΓΑΝΗ)
+
+- [ ] Ψηφιακό Πελατολόγιο 
+
 
 - [ ] Διασύνδεση με Wordpress
       
