@@ -31,7 +31,7 @@ To [Dolibarr ERP/CRM](https://www.dolibarr.org/) είναι η μόνη αξιό
 
 - [ ] Απόδειξη είσπραξης
 
-- [ ] Δελτίο αποστολής
+- [x] Δελτίο αποστολής
 
 - [x] Τύποι παραστατικών (τιμολόγια)
 
@@ -50,15 +50,6 @@ To [Dolibarr ERP/CRM](https://www.dolibarr.org/) είναι η μόνη αξιό
 
 ### Modules / Bridges
 
-
-
-
-- [ ] Ηλεκτρονική Τιμολόγηση
-
-
-- [ ] Διασύνδεση φορολογικού μηχανισμού
-
-
 - [ ] Διασύνδεση με Wordpress
       
 - [ ] Διασύνδεση με Drupal
@@ -73,6 +64,8 @@ To [Dolibarr ERP/CRM](https://www.dolibarr.org/) είναι η μόνη αξιό
 
 
 - [ ] Διασύνδεση με Nextcloud
+
+- [x] Ηλεκτρονική Τιμολόγηση
 
 - [x] Mydata
 
