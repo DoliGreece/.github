@@ -25,15 +25,13 @@ To [Dolibarr ERP/CRM](https://www.dolibarr.org/) είναι η μόνη αξιό
 
 
 
-### Core
-
-
+### Core (Βασικές λειτουργίες μια τυπικής εγκατάστασης)
 
 - [ ] Απόδειξη είσπραξης
 
-- [x] Δελτίο αποστολής
+- [x] Δελτίο αποστολής (WIP)
 
-- [x] Τύποι παραστατικών (τιμολόγια)
+- [x] Τύποι παραστατικών (τιμολόγια, Δ.Α. )
 
 
 - [x] Αναζήτηση στοιχείων απο ΑΑΔΕ μέσω του πεδίου ΑΦΜ και αυτόματη συμπλήρωση στην καρτέλα πελάτη.
@@ -49,40 +47,62 @@ To [Dolibarr ERP/CRM](https://www.dolibarr.org/) είναι η μόνη αξιό
       
 
 ### Modules / Bridges
+
+Θα βρείτε πολλά module δωρεάν και μη στο app store του Dolibarr https://www.dolistore.com/index.php
+
 - [ ] Ψηφιακή κάρτα εργασίας(ΕΡΓΑΝΗ)
 
 - [ ] Ψηφιακό Πελατολόγιο 
 
+- [ ] Διασύνδεση με Opencart
 
 - [ ] Διασύνδεση με Wordpress
       
 - [ ] Διασύνδεση με Drupal
 
 
-- [ ] Διασύνδεση με WooCommerce
+- [x] Διασύνδεση με WooCommerce
+      
+   https://www.dolistore.com/product.php?id=1110&title=woo2doli&l=en
+      
+      
+   https://www.dolistore.com/product.php?id=1084&title=woosync&l=en
+       
+
+- [x] Διασύνδεση με Prestashop
 
 
-- [ ] Διασύνδεση με Prestashop
+   https://www.dolistore.com/product.php?id=2327&title=presta-doli-sync-prestashop-connector-for-dolibarr&l=en
 
-- [ ] Διασύνδεση με Opencart
+      
 
+   https://www.dolistore.com/product.php?id=1688&title=dolibarr-prestashop-synchronization-connector-cyberoffice-plugin&l=en
 
-- [ ] Διασύνδεση με Nextcloud
+      
 
-- [x] Ηλεκτρονική Τιμολόγηση
+   https://www.dolistore.com/product.php?id=401&title=bypassinvoice&l=en
+      
 
-- [x] Mydata
+- [x] Διασύνδεση με Nextcloud
+
+   https://www.dolistore.com/product.php?id=657&title=doli-nextcloud&l=en
+
+- [x] Ηλεκτρονική Τιμολόγηση (WIP)
+
+- [x] Mydata (Free / Δωρεάν)
 
       https://github.com/evansgl/dolibarr-mydata
       
-- [x] Mask4Greece (pdf πρότυπα παραστατικών)
+- [x] Mask4Greece (pdf πρότυπα παραστατικών) (Free / Δωρεάν)
 
       https://github.com/TechnickSysAid/mask4greece/
       
-- [x] CTPT (Σειρές αρίθμησης παραστατικών)
+- [x] CTPT (Σειρές αρίθμησης παραστατικών) (Free / Δωρεάν)
 
+      https://www.dolistore.com/product.php?id=644&title=ctpt&l=en
+      
       https://github.com/sonikf/ctpt
       
-- [x] NumberWords (Μετατροπή αριθμού ή ποσού σε λέξεις (ολογράφως))
+- [x] NumberWords (Μετατροπή αριθμού ή ποσού σε λέξεις (ολογράφως)) (Free / Δωρεάν)
 
       https://www.dolistore.com/en/modules/17-NumberWords.html
