@@ -20,19 +20,17 @@ To [Dolibarr ERP/CRM](https://www.dolibarr.org/) είναι η μόνη αξιό
 
 ## Are we there yet?
 
-Η παρακάτω λίστα είναι ενδεικτική και αποτελείται απο ερωτήματα και συνεισφορές που έχουν υποβληθεί κυρίως στο [forum](https://www.dolibarr.gr/foroum/index.html) της Ελληνικής κοινότητας. 
-- [x] Wiki (work in progress)
+
+
+- [x] Wiki (always a work in progress)
 
 
 
 ### Core (Βασικές λειτουργίες μια τυπικής εγκατάστασης)
 
-- [ ] Απόδειξη είσπραξης
-
 - [x] Δελτίο αποστολής (WIP)
 
 - [x] Τύποι παραστατικών (τιμολόγια, Δ.Α. )
-
 
 - [x] Αναζήτηση στοιχείων απο ΑΑΔΕ μέσω του πεδίου ΑΦΜ και αυτόματη συμπλήρωση στην καρτέλα πελάτη.
 
@@ -48,17 +46,38 @@ To [Dolibarr ERP/CRM](https://www.dolibarr.org/) είναι η μόνη αξιό
 
 ### Modules / Bridges
 
-Θα βρείτε πολλά module δωρεάν και μη στο app store του Dolibarr https://www.dolistore.com/index.php
+Θα βρείτε πολλά άλλα module δωρεάν και μη, στο app store του Dolibarr https://www.dolistore.com/index.php
+
+- [x] Ηλεκτρονική Τιμολόγηση (WIP)
+
+- [x] Mydata (Free / Δωρεάν)
+
+  https://github.com/evansgl/dolibarr-mydata
 
 - [ ] Ψηφιακή κάρτα εργασίας(ΕΡΓΑΝΗ)
 
-- [ ] Ψηφιακό Πελατολόγιο 
+- [ ] Ψηφιακό Πελατολόγιο
 
-- [ ] Διασύνδεση με Opencart
+- [ ] Απόδειξη είσπραξης (WIP)
 
-- [ ] Διασύνδεση με Wordpress
       
-- [ ] Διασύνδεση με Drupal
+- [x] Mask4Greece (pdf πρότυπα παραστατικών) (Free / Δωρεάν)
+
+  Υποστηρίζει mark και QR CODE της ΑΑΔΕ
+
+  https://github.com/TechnickSysAid/mask4greece/
+      
+- [x] CTPT (Σειρές αρίθμησης παραστατικών) (Free / Δωρεάν)
+
+  https://www.dolistore.com/product.php?id=644&title=ctpt&l=en
+      
+  https://github.com/sonikf/ctpt
+      
+- [x] NumberWords (Μετατροπή αριθμού ή ποσού σε λέξεις (ολογράφως)) (Free / Δωρεάν)
+
+  https://www.dolistore.com/en/modules/17-NumberWords.html
+
+- [x] Απόδειξη είσπραξης (WIP)
 
 
 - [x] Διασύνδεση με WooCommerce
@@ -86,25 +105,10 @@ To [Dolibarr ERP/CRM](https://www.dolibarr.org/) είναι η μόνη αξιό
 - [x] Διασύνδεση με Nextcloud
 
    https://www.dolistore.com/product.php?id=657&title=doli-nextcloud&l=en
-
-- [x] Ηλεκτρονική Τιμολόγηση (WIP)
-
-- [x] Mydata (Free / Δωρεάν)
-
-  https://github.com/evansgl/dolibarr-mydata
       
-- [x] Mask4Greece (pdf πρότυπα παραστατικών) (Free / Δωρεάν)
 
-  Υποστηρίζει mark και QR CODE της ΑΑΔΕ
 
-  https://github.com/TechnickSysAid/mask4greece/
-      
-- [x] CTPT (Σειρές αρίθμησης παραστατικών) (Free / Δωρεάν)
 
-  https://www.dolistore.com/product.php?id=644&title=ctpt&l=en
-      
-  https://github.com/sonikf/ctpt
-      
-- [x] NumberWords (Μετατροπή αριθμού ή ποσού σε λέξεις (ολογράφως)) (Free / Δωρεάν)
 
-  https://www.dolistore.com/en/modules/17-NumberWords.html
+
+
