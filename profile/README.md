@@ -77,8 +77,6 @@ To [Dolibarr ERP/CRM](https://www.dolibarr.org/) είναι η μόνη αξιό
 
   https://www.dolistore.com/en/modules/17-NumberWords.html
 
-- [x] Απόδειξη είσπραξης (WIP)
-
 
 - [x] Διασύνδεση με WooCommerce
       
